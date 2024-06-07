@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.app.light {
+  background-color: white;
+  color: black;
+}
+
+.app.dark {
+  background-color: black;
+  color: white;
+}
+
+button {
+  box-sizing: border-box;
+  padding: 10px 20px;
+  margin: 10px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin-top: 20px;
+  background-color: grey;
+  color: white;
+}
